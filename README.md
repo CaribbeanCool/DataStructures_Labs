@@ -23,7 +23,7 @@ Labs of Data Structures and Algorithms (CIIC4020)
   </tr>
   <tr>
     <td class="tg-0lax">Lab 4 </td>
-    <td class="tg-0lax">Linked Lists</td>
+    <td class="tg-0lax">Linked Lists (Don't have the code)</td>
   </tr>
     <tr>
     <td class="tg-0lax">Lab 5 </td>
